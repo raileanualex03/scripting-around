@@ -1,7 +1,0 @@
-This is my first script :)
-If you run it, this is going to generate and open a CSV file where it stores the name and the
-price of every ultrabook laptop with a dedicated graphics card from eMag.
-
-
-
-Enjoy it if you need it! :)
