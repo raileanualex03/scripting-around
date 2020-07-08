@@ -3,6 +3,7 @@ web scraping shall begin
 
 
 Short DOCUMENTATION:
+
 #001 -> This script will create an excel document containing the ultrabook laptops who have a dedicated
 graphics card from the emag.
 
