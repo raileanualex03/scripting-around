@@ -8,7 +8,7 @@ graphics card from the emag.
 
 #002 -> This script will sort the Downloads directory. This will also run in the background.
 
-#003 -> This script will go to the profile given as input and show its followers.
+#003 -> This script will go to the Instagram profile given as input and show its followers.
 
 #004 -> This script will send an email( given as input the accounts details, the message and the receiver's
 mail)
