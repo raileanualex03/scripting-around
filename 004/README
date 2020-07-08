@@ -3,3 +3,4 @@ This application is  python-based.
 Has a small GUI in tkinter which manages the accounts for Facebook, Instagram and Netflix.
 It also has some buttons to open Facebook, Instagram and Netflix.
 The application will try to log in with the credentials given in the accounts.txt. ( uses selenium module and has some java-script )
+I also used cx_freeze to make the executable.
